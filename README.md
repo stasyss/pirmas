@@ -1,2 +1,4 @@
-Pirmoji mūsų kuriama repozicija.
+Pirmoji Mano repozicija.
+Antra eilutė.
+Readme pakeistas.
 
